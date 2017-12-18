@@ -1,0 +1,36 @@
+# site settings
+title: fw
+subtitle: coding-驿站
+email: fanwei@fwcode.top‍
+description: 孤独,<br /> 亦良师亦益友.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: 范玮
+street_address: 查令十字街84号
+city: 重庆
+state: 渝北区
+zip_code: 
+country: 中华人民共和国
+phone: 18127945807
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/Wsxiaojian
+gitlab_url: 
+googleplus_url:
+instagram_url:
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
